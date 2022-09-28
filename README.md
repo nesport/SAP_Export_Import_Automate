@@ -1,4 +1,4 @@
-# SAP Export-Import system 
+# Automatization SAP Export - Import tasks using Ansible and Bash
 
 Скрипты рабочие для SWPM и Linux на 2018 г.
 
